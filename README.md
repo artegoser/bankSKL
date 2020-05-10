@@ -1,3 +1,3 @@
 # bankSKL
 
-Platform for students in Russia, Novocheboksarsk
+Platform for peoples in Novocheboksarsk
