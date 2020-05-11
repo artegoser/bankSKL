@@ -1,3 +1,3 @@
 # bankSKL
 
-Platform for peoples in Novocheboksarsk
+Platform for peoples. New currency
